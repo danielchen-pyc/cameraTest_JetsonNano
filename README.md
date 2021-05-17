@@ -5,3 +5,4 @@
 - [Using Genetic Algorithm for Eye Detection and Tracking in Video Sequence](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.546.2865&rep=rep1&type=pdf)
 - [Fast and Accurate Algorithm for Eye Localization for Gaze Tracking in Low Resolution Images](https://arxiv.org/pdf/1605.05272.pdf)
 - [REAL-TIME DETECTION AND TRACKING OF HUMAN EYES IN VIDEO SEQUENCES](https://etd.lib.metu.edu.tr/upload/12606459/index.pdf) 
+- [Eye tracking algorithms, techniques, tools, and applications with an emphasis on machine learning and Internet of Things technologies](https://sci-hub.do/https://doi.org/10.1016/j.eswa.2020.114037)
