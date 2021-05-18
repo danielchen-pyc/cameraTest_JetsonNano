@@ -38,8 +38,8 @@ def cameraTest():
 		if len(faces) == 1:
 			(x,y,w,h) = faces[0]
 			cv2.rectangle(frame,(x,y),(x+w,y+h),(255,255,0),2)
-			face = frame[y:y+h, x:x+w]
-			
+			face = frame[y:y+h, x:x+w]ector_params)
+
 			face_h, face_w, face_channel = face.shape
 			eyes = eye_cascade.detectMultiScale(gray, 1.3, 5)
 			eyes_detected_num = 0
